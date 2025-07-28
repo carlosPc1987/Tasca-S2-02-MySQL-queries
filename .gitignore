@@ -1,0 +1,42 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+*.classpath
+*.project
+*.settings/
+.eclipse/
+
+# Maven/Gradle
+target/
+build/
+
+# Sistema y archivos ocultos
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+
+# Carpetas personales (no relacionadas al proyecto)
+../.VirtualBox/
+../VirtualBox VMs/
+../.eclipse/
+../AppData/
+../Downloads/
+../Saved Games/
+../Videos/
+../Music/
+../Favorites/
+../Contacts/
+../Links/
+../Searches/
