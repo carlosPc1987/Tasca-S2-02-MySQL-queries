@@ -1,7 +1,10 @@
 # Tasca-S2-02-MySQL-queries
 
 
-
+//=============================\
+|| Crafted with 💛 by Carlos ||
+||    and approved by 🦆     ||
+\=============================//
 
 # SQL Projects: University and Store Databases
 
