@@ -1,10 +1,12 @@
 # Tasca-S2-02-MySQL-queries
 
 
+```text
 //=============================\
 || Crafted with 💛 by Carlos ||
 ||    and approved by 🦆     ||
 \=============================//
+```
 
 # SQL Projects: University and Store Databases
 
@@ -67,4 +69,12 @@ This project defines a database for managing a retail store. It tracks product i
 
 ##  Author
 
-Created by **Carlos** – Academic & Data Design Enthusiast 
+
+```text
+//=============================\
+|| Crafted with 💛 by Carlos ||
+||    and approved by 🦆     ||
+\=============================//
+```
+
+
